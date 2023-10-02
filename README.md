@@ -1,0 +1,1 @@
+# velocity-openfaas-example
